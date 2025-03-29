@@ -5,8 +5,8 @@ import pdfplumber
 from langchain_openai import OpenAI
 from langchain.prompts import PromptTemplate
 from langchain.chains import LLMChain
-import os 
 from dotenv import load_dotenv 
+from dotenv import load_dotenv
 from PIL import Image
 import pytesseract
 
